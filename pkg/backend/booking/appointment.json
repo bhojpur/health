@@ -1,0 +1,3 @@
+[{"stmt":"SELECT * FROM appointments;",
+    "header":["id","date","time","doctName","doctSpeciality","doctIdentity","doctAddress","beneficiaryName","beneficiaryPhone","beneficiaryNif"],
+    "rows":[["1","26/03/2018","12:00","Dr. Shashi Bhushan Rai","Nutritionist","cacascavavavavavaefvagsfafdaadfavbadgsefaegfvgsbsgfva","NULL","Bimla Pandey","912027029021","mmndmajdladandadmasjscavavadcavasavsd"]]}]
